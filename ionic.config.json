@@ -1,0 +1,7 @@
+{
+  "name": "taller-camara",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
